@@ -1,0 +1,19 @@
+[center][youtube]LFpNsTQSIXg[/youtube][/center]
+
+[size=6][b]Description[/b][/size]
+
+Shows a scrolling warning message after extended playtime.
+
+This mod adds a moving marquee message on-screen when the player exceeds a set playtime, serving as a playful yet functional reminder to step away for a while.
+
+Customize scroll speed, text direction (RTL: default, or LTR), and warning messages in the mod file itself.
+
+[size=6][b]Requirement[/b][/size]
+
+[url=https://nexusmods.com/bullyscholarshipedition/mods/43]Derpy Script Loader[/url]
+
+[size=6][b]Installation[/b][/size]
+
+[list=1]1. Extract the archive
+2. Move the [b]BreakReminder.lua[/b] file to [b][code]`(bully_game_directory)/_derpy_script_loader/scripts/(here)`[/code][/b]
+[/list]
